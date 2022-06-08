@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dkKiStBe\\Repositories\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "/Users/dkKiStBe/Repositories/gradebook/src/GradeBook/GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dkKiStBe\\Repositories\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "/Users/dkKiStBe/Repositories/gradebook/src/GradeBook/GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dkKiStBe\\Repositories\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "/Users/dkKiStBe/Repositories/gradebook/src/GradeBook/GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\dkKiStBe\\Repositories\\gradebook\\src\\GradeBook\\GradeBook.csproj",
-        "packagesPath": "C:\\Users\\dkKiStBe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dkKiStBe\\Repositories\\gradebook\\src\\GradeBook\\obj\\",
+        "projectPath": "/Users/dkKiStBe/Repositories/gradebook/src/GradeBook/GradeBook.csproj",
+        "packagesPath": "/Users/dkKiStBe/.nuget/packages/",
+        "outputPath": "/Users/dkKiStBe/Repositories/gradebook/src/GradeBook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dkKiStBe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dkKiStBe/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }
